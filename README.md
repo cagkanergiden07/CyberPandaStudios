@@ -1,4 +1,4 @@
-DRAGGER GAME PRIVACY POLICY
+<b> <h1> DRAGGER GAME PRIVACY POLICY </h1> </b>
 
 This privacy policy governs your use of the software application Dragger (“Application”) for mobile devices that was created by  Çağkan Ergiden  The Application is  a  game.
 
