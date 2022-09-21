@@ -1,4 +1,4 @@
-<b> E PRIVACY POLICY </b>
+<b>  PRIVACY POLICY </b>
 
 This privacy policy governs your use of the software application for mobile devices that was created by  Çağkan Ergiden  The Application is  a  game.
 
