@@ -1,6 +1,6 @@
 <b>  PRIVACY POLICY </b>
 
-This privacy policy governs your use of the software application for mobile devices that was created by  Çağkan Ergiden  The Application is  a  game.
+This privacy policy governs your use of the software application for mobile devices that was created by  Çağkan Ergiden.
 
 
 What information does the Application obtain and how is it used?
