@@ -1,6 +1,6 @@
 <b>  PRIVACY POLICY </b>
 
-This privacy policy governs your use of the software application for mobile devices that was created by  Çağkan Ergiden.
+This privacy policy governs your use of the software application for mobile devices that was created by  Cyber Panda Studios.
 
 
 What information does the Application obtain and how is it used?
@@ -31,7 +31,7 @@ We may disclose User Provided and Automatically Collected Information:
     • as required by law, such as to comply with a subpoena, or similar legal process;
     • when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
     • with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-    • if  Çağkan Ergiden is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+    • if  Cyber Panda Studios is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
     • to advertisers and third party advertising networks and analytics companies as described in the section below
 
 Automatic Data Collection and Advertising
@@ -42,15 +42,15 @@ If you’d like to opt-out from third party use of this type of information to h
 What are my opt-out rights?
 
 here are multiple opt-out options for users of this Application:    
-Opt-out of all information collection by uninstalling the Application: You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at  cagkanergiden96@gmail.com.
+Opt-out of all information collection by uninstalling the Application: You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at  cyberpandastudios@hotmail.com.
 Opt-out from the use of information to serve targeted advertising by advertisers and/or third party network advertisers: you may at any time opt-out from further allowing us to have access to your location data by  Settings.
 
 
 Data Retention Policy, Managing Your Information
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at  cagkanergiden96@gmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at  cyberpandastudios@hotmail.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
 Children
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at  cagkanergiden96@gmail.com  We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at  cyberpandastudios@hotmail.com  We will delete such information from our files within a reasonable time.
  
 
 Security
@@ -60,4 +60,4 @@ By using the Application, you are consenting to our processing of your informati
  
 Contact us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at  
-cagkanergiden96@gmail.com.
+cyberpandastudios@hotmail.com.
